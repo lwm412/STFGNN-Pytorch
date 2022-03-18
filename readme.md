@@ -1,6 +1,6 @@
 ### STFGNN-Pytorch
 
-This is the pytorch re-implement of the STFGNN model described in https://arxiv.org/abs/2012.09641.
+This is the pytorch re-implementation of the STFGNN model described in https://arxiv.org/abs/2012.09641.
 
 #### Quick start
 
