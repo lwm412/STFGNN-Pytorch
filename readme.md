@@ -13,8 +13,5 @@ Set appropriate value of parameter in **<u>STFGNN/config/*.json</u>**.
 Run <u>**python main.py**</u> to run the model. 
 
 ### Discussion
-Contact me via lwm568@buaa.edu.cn
-
-For more corresponding models, you can visit our MvTS library for multivariate time series forecasting through the link "https://github.com/MTS-BenchMark/MvTS". And it's our great pleasure if you are interested in our work. 
-
+Contact me via lwm568@buaa.edu.cn.
 Any issue is welcome to be raised and actively communicated.
